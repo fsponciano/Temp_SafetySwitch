@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Teensy)(type KiCad)(uri /home/francisco.ponciano/Documents/Electronics/Thermocouple_safety_switch/teensy.pretty-master)(options "")(descr "XenGi Teensy footprints"))
+  (lib (name AD597)(type KiCad)(uri /home/francisco.ponciano/Documents/Electronics/LIB_AD597ARZ/AD597ARZ/KiCad)(options "")(descr "CSE AD597"))
+)

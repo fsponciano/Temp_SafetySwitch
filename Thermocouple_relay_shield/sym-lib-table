@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Teensy)(type Legacy)(uri /home/francisco.ponciano/Documents/Electronics/Thermocouple_safety_switch/teensy_library-master/teensy.lib)(options "")(descr "XenGi Teensy KiCad library"))
+  (lib (name AD597)(type Legacy)(uri /home/francisco.ponciano/Documents/Electronics/LIB_AD597ARZ/AD597ARZ/KiCad/AD597ARZ.lib)(options "")(descr "CSE AD597AZ"))
+)
